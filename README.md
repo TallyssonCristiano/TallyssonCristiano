@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @TallyssonCristiano
-- 👀 I’m interested in  Desenvolvimento Java / Web
-- 🌱 I’m currently learning  Java and others languages & frameworks
-- 💞️ I’m looking to collaborate to solve projects in back-end.
-- 📫 How to reach me https://www.linkedin.com/in/tallyssoncristiano/
+## 👋 Hi, I'm Tallysson Cristiano
 
-<!---
-TallyssonCristiano/TallyssonCristiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----->
+Senior Backend / Full Stack Developer with solid experience in Java-based enterprise systems, working mainly with critical and high-availability applications.
+
+### 💼 Professional Background
+- Strong experience with **Java**, **Spring Boot**, **EJB**, **JPA/Hibernate**
+- Backend-focused, with frontend experience using **Angular**
+- Design and maintenance of scalable, transactional systems
+- Experience in regulated environments (healthcare and government systems)
+- Familiar with Agile/Scrum environments and enterprise architecture
+
+### 🛠️ Main Technologies
+- **Backend:** Java, Spring Boot, EJB, JPA, Hibernate, REST APIs
+- **Frontend:** Angular, HTML, CSS, TypeScript
+- **Databases:** SQL Server, T-SQL
+- **Tools & Practices:** Git, Maven, CI/CD, Jira, Scrum
+
+### 🎯 Areas of Interest
+- Backend architecture
+- Transactional systems
+- Financial and enterprise applications
+- Performance, consistency and code quality
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/tallyssoncristiano/
